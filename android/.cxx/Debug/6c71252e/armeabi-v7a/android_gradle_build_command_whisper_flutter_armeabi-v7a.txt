@@ -1,0 +1,7 @@
+Executable : /Users/shy_way/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/android/.cxx/Debug/6c71252e/armeabi-v7a
+whisper_flutter
+jvmArgs : 
+

@@ -1,0 +1,7 @@
+ninja: Entering directory `/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/x86'
+[1/6] Building C object CMakeFiles/ggml.dir/whisper.cpp/ggml.c.o
+[2/6] Linking C static library libggml.a
+[3/6] Building CXX object CMakeFiles/whisper_flutter.dir/main.cpp.o
+[4/6] Building CXX object CMakeFiles/whisper.dir/whisper.cpp/whisper.cpp.o
+[5/6] Linking CXX static library libwhisper.a
+[6/6] Linking CXX shared library /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/cxx/Debug/4o4s2iq2/obj/x86/libwhisper.so

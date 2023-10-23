@@ -1,0 +1,5 @@
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/build/CMakeFiles/whisper_flutter.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/build/CMakeFiles/whisper.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/build/CMakeFiles/ggml.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/build/CMakeFiles/edit_cache.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/build/CMakeFiles/rebuild_cache.dir

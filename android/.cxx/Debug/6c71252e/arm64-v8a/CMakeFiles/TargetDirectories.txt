@@ -1,0 +1,5 @@
+/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/android/.cxx/Debug/6c71252e/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/android/.cxx/Debug/6c71252e/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/android/.cxx/Debug/6c71252e/arm64-v8a/CMakeFiles/ggml.dir
+/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/android/.cxx/Debug/6c71252e/arm64-v8a/CMakeFiles/whisper.dir
+/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/android/.cxx/Debug/6c71252e/arm64-v8a/CMakeFiles/whisper_flutter.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+0	1384	1698010345	CMakeFiles/ggml.dir/whisper.cpp/ggml.c.o	9e7d97aa9f5707f
+1385	1484	1698010345	libggml.a	6b55046160a34137
+3	2778	1698010346	CMakeFiles/whisper_flutter.dir/main.cpp.o	9c581bfba435d5c4
+0	3199	1698010346	CMakeFiles/whisper.dir/whisper.cpp/whisper.cpp.o	18f7860028d7765c
+3199	3261	1698010346	libwhisper.a	5e2338003bcbd4cc
+3261	3394	1698010347	/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/example/build/whisper_flutter/intermediates/cxx/Debug/2b2k4e47/obj/x86/libwhisper.so	a2e4125164d1b24b
+7	358	1698025539	/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/example/build/whisper_flutter/intermediates/cxx/Debug/2b2k4e47/obj/x86/libwhisper.so	a2e4125164d1b24b
+5	322	1698026009	/Users/shy_way/work/google-research/whisper_flutter_maggie_merge/example/build/whisper_flutter/intermediates/cxx/Debug/2b2k4e47/obj/x86/libwhisper.so	a2e4125164d1b24b
